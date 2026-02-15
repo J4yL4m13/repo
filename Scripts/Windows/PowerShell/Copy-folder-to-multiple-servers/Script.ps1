@@ -19,11 +19,12 @@ Ideal if you are about to roll some updates out to a bunch of servers
 
 $servers = @('server01', 'server02', 'server03')
 $localfoldertocopy = "C:\temp\test\"
+$destination = "c$\temp\"
 
 ##############
 # End Config
 ##############
 
 foreach ($server in $servers) {
-    Copy-Item -Recurse -Path $localfoldertocopy -Destination \\$server\c$\temp\
+    Copy-Item -Recurse -Path $localfoldertocopy -Destination \\$server\$destination
 }
