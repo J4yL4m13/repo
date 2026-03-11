@@ -7,6 +7,7 @@ Prerequisites
 Download ffmpeg from https://ffmpeg.org/download.html#build-windows, unzip and copy the contents to c:\ffmpeg
 Add the ffmpeg folder as a path, as per below.
 
+<img width="640" height="428" alt="image (3)" src="https://github.com/user-attachments/assets/b906eb74-f1c0-4ae1-a573-989f6a121245" />
 
 Download and install ImageMagick and ensure the "add to systm path" is ticked during the installation. https://imagemagick.org/index.php
 
@@ -23,6 +24,7 @@ See screenshots for examples.
 
 
 <img width="638" height="272" alt="image (2)" src="https://github.com/user-attachments/assets/6115b1fb-de45-431d-9ba3-f14e4ec42d86" />
+
 
 
 
