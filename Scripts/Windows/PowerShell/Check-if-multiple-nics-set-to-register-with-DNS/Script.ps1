@@ -1,3 +1,18 @@
+<#
+.SYNOPSIS
+Created by James Lambert
+www.roonics.com
+
+.DESCRIPTION
+
+.EXAMPLE
+
+.OUTPUTS
+
+.NOTES
+
+#>
+
 cls
 $servers = Get-Content computers.txt
 
